@@ -1,6 +1,6 @@
 ## Hi Guys!! I'm Mr As'ad 010101 👋
 
-![Mr As'ad 010101](/Profile/IMG_20231020_100313.jpg)
+![Mr As'ad 010101](/Lambert and liya.jpg)
 
 <!--
 **mrAsadCodes001/mrAsadCodes001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
