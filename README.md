@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## My Wife :)
+
+<img src="liya.jpg" width="330" height="660"/> <img src="cai lin.jpg" width="330" height="555"/> <img src="yafei.jpg" width="330" height="555"/>
 
 ## My Skills
 
