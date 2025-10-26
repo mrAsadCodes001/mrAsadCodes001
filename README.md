@@ -1,6 +1,8 @@
 ## Hi Guys!! I'm Mr As'ad 👋
 
-<img src="loq.gif" alt="Lambert and Liya" width="650"/>
+<img src="loq.gif" alt="Lambert and Liya" width="110"/>
+<img src="loq eye.gif" alt="Lambert and Liya" width="110"/>
+<img src="loq-rainbow.gif" alt="Lambert and Liya" width="110"/>
 
 <!--
 **mrAsadCodes001/mrAsadCodes001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
