@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,linux,php)](https://skillicons.dev)
 
 ## My Media
 
