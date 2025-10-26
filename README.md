@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 ## My Wife :)
 
-<img src="liya.jpg" width="220" height="660"/> <img src="cai lin.jpg" width="220" height="555"/> <img src="yafei.jpg" width="220" height="555"/>
+<img src="liya.jpg" width="250" height="660"/> <img src="cai lin.jpg" width="250" height="421"/> <img src="yafei.jpg" width="250" height="421"/>
 
 ## My Skills
 
