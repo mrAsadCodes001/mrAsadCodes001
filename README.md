@@ -1,6 +1,6 @@
 ## Hi Guys!! I'm Mr As'ad 👋
 
-<img src="loq.gif" alt="Lambert and Liya" width="330"/> <img src="loq eye.gif" alt="Lambert and Liya" width="330"/> <img src="loq-rainbow.gif" alt="Lambert and Liya" width="330"/>
+<img src="loq.gif" width="330"/> <img src="loq eye.gif" width="330"/> <img src="loq-rainbow.gif" width="330"/> <img src="loq-normal.gif" width="330"/>
 
 <!--
 **mrAsadCodes001/mrAsadCodes001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 ## My Wife :)
 
-<img src="liya.jpg" width="250" height="660"/> <img src="cai lin.jpg" width="250" height="421"/> <img src="yafei.jpg" width="250" height="421"/>
+<img src="liya.jpg" width="250" height="660"/> <img src="cai lin.jpg" width="250" height="421"/> <img src="yafei.jpg" width="250" height="421"/> 
 
 ## My Skills
 
